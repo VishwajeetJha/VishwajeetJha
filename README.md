@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-- 🌱 I’m currently doing a diploma in Computer Engineering!
+- 🌱 I’m currently doing a Bachelor in Computer Engineering!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️💻
