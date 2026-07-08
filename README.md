@@ -1,4 +1,4 @@
-Hi every-niyan, how are you!? FINE, 'sank you. Myself Vishwajeet! but they call me Vish :)
+Hello everyone, how are you!? Myself Vishwajeet! but they call me Vish :)
 
 <!--
 **VishwajeetJha/VishwajeetJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
