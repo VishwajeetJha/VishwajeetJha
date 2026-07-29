@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <h3><code>VishwajeetJha@github ~ $ whoami</code></h3>
     <table>
         <tr>
-            <td valign="top"><img src="./vish-ascii.svg" width="370" /></td>
+            <td valign="top"><img src="./wordmark.svg" width="370" /></td>
             <!-- <td valign="top"><img src="./info-card.svg" width="490" /></td> -->
         </tr>
     </table>
