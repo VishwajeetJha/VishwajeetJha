@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 
 -->
 
+- 🌱 I’m currently doing a Bachelor of Engineering in Computer Engineering!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️💻
+
 <div align="center">
     <h3><code>vishftw@github ~ $ whoami</code></h3>
     <table>
@@ -25,6 +29,3 @@ Here are some ideas to get you started:
     <img src="./contrib-heatmap.svg" width="860" />
 </div>
 
-- 🌱 I’m currently doing a Bachelor of Engineering in Computer Engineering!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer. 🕵️‍♂️💻
