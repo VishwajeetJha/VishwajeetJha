@@ -33,12 +33,12 @@ from PIL import Image, ImageDraw, ImageFont
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---- geometry / grid ------------------------------------------------------
-COLS = int(os.environ.get("WORDMARK_COLS", 50))
+COLS = int(os.environ.get("WORDMARK_COLS", 60))
 ROWS = 0               # derived from the art -- see fit()
 # blank rows above and below the art. 5 pads the panel out to 486x387, which
 # renders at 490 wide beside the 370-wide portrait and lands within 5px of its
 # height, so the two terminal windows read as a matched pair.
-ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 5))
+ROW_MARGIN = int(os.environ.get("WORDMARK_ROW_MARGIN", 6))
 CELL_W = 9.0
 CELL_H = 15.5
 # Futura Bold: even stroke weight keeps the shading consistent across a letter,
@@ -256,7 +256,7 @@ def emit(frames, mode, out, dur, reveal):
     for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
         p.append(f'<circle cx="{PAD + i*15}" cy="{TITLEBAR_H/2}" r="4.5" fill="{dot}"/>')
     p.append(f'<text x="{canvas_w/2:.0f}" y="{TITLEBAR_H/2 + 4:.0f}" fill="{TITLE_TEXT}" '
-             f'font-size="11.5" text-anchor="middle">avi@github: ~$ ./wordmark.sh --3d</text>')
+             f'font-size="11.5" text-anchor="middle">vishftw@github: ~$ ./wordmark.sh --3d</text>')
 
     def frame_g(rows, extra=""):
         out_rows = []
